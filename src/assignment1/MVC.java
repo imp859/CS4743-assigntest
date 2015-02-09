@@ -16,6 +16,7 @@ public class MVC {
 		view.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		view.setSize(700, 500);
 		view.setVisible(true);
+	        //test comment
 	}
 	
 }
